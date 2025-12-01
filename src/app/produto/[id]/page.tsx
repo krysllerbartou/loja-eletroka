@@ -14,7 +14,7 @@ export default function ProductPage() {
   const product = {
     id: "1",
     name: "Bateria Lítio 48V 20Ah para Scooter Elétrica",
-    price: 899.90,
+    price: 2090.90,
     images: [
       "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&h=800&fit=crop",
       "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=800&fit=crop",
